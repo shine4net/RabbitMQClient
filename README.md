@@ -1,1 +1,1 @@
-﻿#idealsee-face_recognition
+﻿#RabbitMQClient
